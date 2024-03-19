@@ -1,0 +1,38 @@
+
+команды в одну строчку
+cd environments && selenium_env\Scripts\activate.bat
+
+cd selenium_env2  && Scripts\activate.bat
+
+
+перейдти в папку
+cd environments
+
+запуск окружения
+selenium_env\Scripts\activate.bat
+
+команды в одну строчку
+cd environments && selenium_env\Scripts\activate.bat
+
+
+выход из приложения 
+selenium_env\Scripts\deactivate.bat
+
+python
+
+выход из интерпритатора
+exit()
+
+https://stepik.org/lesson/25969/step/2?unit=196192
+
+пример запуска скрипта 
+
+python "C:\Users\seal100\selenium_course\first_script_14.py"
+
+python "C:\Users\seal100\selenium_course\lesson2.3_step4.py"
+
+pytest "C:\Users\seal100\selenium_course\test_abs_project.py"
+
+python "C:\Users\seal100\selenium_course\lesson3.2_step12.py"
+
+22 warnings, 1 error in 0.39s
